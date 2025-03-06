@@ -424,7 +424,7 @@ function App() {
 
           <div className="border-t border-gray-800 pt-8 flex flex-col md:flex-row justify-between items-center fade-in-up">
             <p className="text-gray-400 mb-4 md:mb-0">
-              © {new Date().getFullYear()} PixelTrue. All rights reserved.
+              © {new Date().getFullYear()} PixelTrue. All rights reserved. k
             </p>
             <div className="flex space-x-6">
               {["Privacy Policy", "Terms of Service", "Cookies Policy"].map(
